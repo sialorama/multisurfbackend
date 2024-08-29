@@ -1,4 +1,3 @@
-```markdown
 # Multi-Surface App with Spring Boot (JPA, MySQL) and React
 
 This is a full-stack web application built with a Spring Boot backend and a React frontend. The backend is powered by Spring Data JPA with MySQL, and the frontend is built using React. The app is designed to be multi-surface, meaning it is responsive and works well on different screen sizes.
@@ -151,8 +150,7 @@ This application is designed to work across multiple devices (desktop, tablet, m
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-```
+This project is open-source and available under the [MIT License](LICENSE).  
 
 ### How to Use
 1. Replace the `git clone` URL with your own repository URL.
