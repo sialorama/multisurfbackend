@@ -1,13 +1,13 @@
-package fr.multisurfbackend;
+package com.example.multisurface;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MultisurfbackendApplicationTests {
+class MultisurfaceApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
